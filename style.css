@@ -2,7 +2,6 @@ body{
     background-image: url(imagens/fundo4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    display: flex;
 }
 
 h1{
